@@ -1,0 +1,6 @@
+{
+  "name": "Avirastays - Luxury Farmhouse Retreats",
+  "description": "Exclusive private farmhouses surrounded by nature. Designed for unforgettable stays, wellness, and togetherness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
